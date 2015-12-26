@@ -1,4 +1,4 @@
-####Github:
+#Github:
 * Click on "+" ,"new repository" to create a repository.
 * Give a name to your repository-"pushingafiletogithub"
 * Give a description to your repository-optional.
